@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+body{
+    background-color: lightcyan;
+}
+.img{
+    text-align: center;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+.text{
+    text-align: :center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
